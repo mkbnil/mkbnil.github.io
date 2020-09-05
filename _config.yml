@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Binil's Blogs
+subtitle: Code.. Build.. Repeat.. !!
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Hi there.. I am a full stack web developer.. This is my personal blog and i would like to share my thoughts over here ..
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,25 +25,26 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author: Binil M K
+author_bio: Hi, my name is Binil M K. This is my personal blog.
+author_email: "cnctbinil@gmail.com"
 author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author_website_url: "https://mkbinil.github.io"
+typewrite-text: Software engineering professional with experience in Agile development methodologies. Passionate towards latest technologies and loves the whole process of developing a project into its completion.
+
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
+            - company_name: Petrolink Data Services
+              company_logo: petrolink.png
+              company_url: https://petrolink.com
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: Worked on various Petrolink Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: IBS Software
+              company_logo: ibs.png
+              company_url: https://ibsplc.com
+              designation: Software Engineer
+              description: Worked on various IBS Products
               visibility: true
 
 author_education_details:
@@ -55,36 +56,36 @@ author_education_details:
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: petrolink.png
+                project_title: Petrovault
+                project_description: PetroVault
+                project_url: 
+                visibility: 
+              - project_thumbnail: ibs.PNG
+                project_title: IFlightMRO
+                project_description: IFlightMRO
+                project_url: 
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
+twitter_username: mkbinil
+github_username:  mkbnil
+facebook_username: binil sreenivasan
+linkedin_username: Binil M K
 behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+instagram_username: mk_binil
+medium_username: mkbinil
+telegram_username: mkbinil
+dribbble_username: mkbinil
+flickr_username: mkbinil
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-# disqus_shortname: sujay-kundu
+# disqus_shortname: Binil M K
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: mkbinil
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
